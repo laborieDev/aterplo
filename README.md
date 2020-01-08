@@ -1,7 +1,6 @@
 # Projet Aterplo
 
-Url :
-http://www.aterplo.fr/
+[Site Aterplo](http://www.aterplo.fr)
 
 
 ## Home
@@ -35,7 +34,7 @@ http://www.aterplo.fr/
     * L'équipe
 
     * Nous trouver 
-    
+
     * Nous contacter
 
 ## Espaces partenaires 
