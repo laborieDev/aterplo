@@ -3,9 +3,8 @@
 Url :
 http://www.aterplo.fr/
 
-## Pages
 
-### Home
+## Home
 
     * Présentation avec <button> Demande de devis en ligne </>
     * Diagnostics obligatoires en cas de vente ou location 
@@ -19,7 +18,7 @@ http://www.aterplo.fr/
     * Aterplo expertises & solutions
     * Nous contactez
 
-### Les diagnostics
+## Les diagnostics
     * Obligatoires
     ```
     Détails (Titre : "Quels sont les diagnostics obligatoires en cas de vente ou location ?")
@@ -28,18 +27,18 @@ http://www.aterplo.fr/
     * Copropriété (Title : "Quels sont les diagnostics obligatoires pour les copropriétés ?"))
     * Diagnostics PLUS 
 
-### Aterplo expertises & solutions
+## Aterplo expertises & solutions
 
-### A propos de nous
+## A propos de nous
     * Histoire
     * L'équipe
     * Nous trouver 
     * Nous contacter
 
-### Espaces partenaires 
+## Espaces partenaires 
     (simple lien vers https://aterplo.ado-diagnostics.fr/login) 
 
-### Nous contacter
+## Nous contacter
 
-### Demande de devis en ligne
+## Demande de devis en ligne
 
