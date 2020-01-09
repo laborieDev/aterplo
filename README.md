@@ -8,14 +8,29 @@
     * Présentation avec <button> Demande de devis en ligne </>
 
     * Diagnostics obligatoires en cas de vente ou location 
-        ==> [Amiante, Termites, Plomb, DPE ...] + Boutton Plus de diagnostics 
+        ==>  Amiante
+        ==>  DPE
+        ==>  Electricité
+        ==>  Gaz
+        ==>  Loi Carrez
+        ==>  Termites
+        ==>  Plomb
+        ==>  Risques naturels & technologiques
+
+            <bouton> Plus de diagnostics </>
 
     * Nos engagements 
-        ==> Devis tel, RDV, ...
+        ==>  Devis immédiat
+        ==>  Prise de RDV immédiat
+        ==>  Réactualisation GRATUITE des diagnostics jusqu’à l’acte authentique
+        ==>  Notre équipe à votre disposition pour la bonne compréhension des rapports
 
     * Aterplo expertises & solutions
 
     * Nous contactez
+        ==>  Tel : 05 55 87 30 92
+        ==>  email : aterplo@aterplo.fr
+        ==>  //FORMULAIRE//
 
 ## Les diagnostics
     * Obligatoires
