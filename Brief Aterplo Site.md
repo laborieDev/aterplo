@@ -56,5 +56,12 @@
     -- Plan
     -- Reception thème graphique
     //// 13 MARS
-    -- 
-    
+    -- Choix thème graphique
+    -- Texte
+    //// 21 MARS - 10h  
+    -- 80% - 100% contenu txt
+    //// 27 MARS
+    -- Fin contenu + Images
+    //// 3 AVRIL
+    -- Construction site 
+    //// 20 AVRIL - 10h
